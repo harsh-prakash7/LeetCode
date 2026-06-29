@@ -1,2 +1,2 @@
 # LeetCode-
-These repository is for LeetCode Problem Solutions.
+This repository is for LeetCode Problem Solutions.
